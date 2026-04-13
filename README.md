@@ -2,6 +2,8 @@
 
 > **We present this work at the CHI '26 Poster Session.**
 
+DOI: https://doi.org/10.1145/3772363.3798509
+
 ## Authors
 Haoxiang Fan (Sun Yat-sen University)  
 Yiwei Yuan (Sun Yat-sen University)  
